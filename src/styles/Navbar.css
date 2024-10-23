@@ -1,4 +1,4 @@
-.MyNameBig {
+.company-name {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #08a8f9;
     font-weight: 900;
@@ -7,41 +7,8 @@
     background-color: whitesmoke;
   }
   
-  .personal-navbar-styling {
-    align-self: flex-start;
-    position: sticky;
-    top:0;
-    background-color: whitesmoke;
-  }
-  
-  .personal-navbar-styling a {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    color: rgb(194, 192, 192);
-    font-size: 1.3rem;
-    text-decoration: none;
-    margin: 5px;
-    line-height: 2;
-  } 
-  
-  .personal-navbar-styling a:hover {
-    color:  aqua;
-  }
-  
-  .dropdown-menu {
-    background-color:  whitesmoke;
-  }
-  
-  .dropdown-menu a{
-    background-color:  whitesmoke;
-    width:fit-content;
-  }
-  
-  .dropdown-menu a:hover {
-    background-color:  whitesmoke;
-    color: aqua;
-  }
-  
-  Nav {
+  .nav {
     border-bottom: 4px #df016b solid;
     background-color: whitesmoke;
+    
   }
