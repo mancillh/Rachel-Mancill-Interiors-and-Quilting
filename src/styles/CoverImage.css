@@ -1,5 +1,7 @@
 .coverImage {
     background-size: cover;
-    border-bottom: 4px #df016b solid;
+    background-position: center center;
+    border-bottom: 4px #cc087f solid;
+    background-attachment: fixed;
     width: 100%;
 }

@@ -4,11 +4,11 @@ import '../styles/Navbar.css';
 
 function NavbarSection() {
   return (
-    <Navbar expand="xxl" className="bg-body-tertiary nav fixed-top">
+    <Navbar expand="lg" className="nav fixed-top">
       <Container>
         <Navbar className="company-name">Rachel Mancill Interiors and Quilting</Navbar>
         <Dropdown>
-          <Dropdown.Toggle className="justify-content-end" variant="success" id="dropdown-basic">
+          <Dropdown.Toggle className="justify-content-end dropdownButton" id="dropdown-basic">
             Menu
           </Dropdown.Toggle>
 
