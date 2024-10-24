@@ -1,8 +1,15 @@
-.container {
-    background-color: whitesmoke;
+.carousel-container {
+    /* background-color: whitesmoke;
     font-family: Georgia, 'Times New Roman', Times, serif;
     width: 100%;
-    display: flex;
-    position: relative;
+     */
+     display: inline-block;
+     border-radius: 5px;
+     width:100% !important;
+     height:90% !important;
+     max-width: 300px !important;
+     max-height: 300px!important;
+     margin-left:16px;
+     margin-right:0px;
 }
 

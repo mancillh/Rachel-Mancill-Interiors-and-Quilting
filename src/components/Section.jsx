@@ -15,7 +15,7 @@ function Section(props) {
 
 Section.propTypes = {
     sectionTitle: PropTypes.string.isRequired,
-    sectionContent: PropTypes.string.isRequired
+    sectionContent: PropTypes.string
   }
 
 export default Section;
