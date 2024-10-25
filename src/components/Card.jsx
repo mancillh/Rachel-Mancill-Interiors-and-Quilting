@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 function Card(props) {
     return (
         <div className="card">
-            <img className="card-image" src={props.imgSrc} alt={props.alt}></img>
+            <img className="card-image img-fluid" src={props.imgSrc} alt={props.alt}></img>
         </div>
     );
 }

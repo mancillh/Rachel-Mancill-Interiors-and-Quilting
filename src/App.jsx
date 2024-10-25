@@ -20,14 +20,14 @@ function App() {
         <Section
           sectionTitle="About Our Studio"
           sectionContent="Rachel has been quilting for decades. She particularly enjoys using vintage linens and wild and vibrant colors in her work.
-          Rachel is the designer and piecer of quilt tops. Mike is the long-armer and specializes in custom designs. 
-          The Mancill's offer bespoke quilting services of various kinds.  
-          Contact them with the form below for more information. Quotes are free."
+          Rachel is the designer and piecer of quilt tops. Her husband, Mike, is the long-armer and specializes in custom designs. 
+          Our studio is located in Katy, TX and we offer bespoke quilting services of various kinds.  
+          Contact us with the form below for more information. Quotes are free."
         />
         <div className='images-about'>
           <img className='mom' src='mom at longarm.jpg' alt='Rachel at long arm'></img>
           <img className='dad' src='dad long arm wedding ring.jpg' alt='Mike at long arm'></img>
-        </div>      
+        </div>
         <hr></hr>
       </div>
       <div id='Portfolio'>
