@@ -212,7 +212,7 @@ function App() {
             alt='ship'
           />
           <Carousel.Caption>
-            <h3><q>Ship</q></h3>
+            <h3><q>Unspoiled</q></h3>
             <p>Full Front</p>
           </Carousel.Caption>
         </Carousel.Item>
@@ -222,7 +222,7 @@ function App() {
             alt='ship'
           />
           <Carousel.Caption>
-            <h3><q>Ship</q></h3>
+            <h3><q>Unspoiled</q></h3>
             <p>Full Front</p>
           </Carousel.Caption>
         </Carousel.Item>
