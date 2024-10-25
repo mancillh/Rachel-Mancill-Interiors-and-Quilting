@@ -20,3 +20,15 @@
 .carousel .slide{
     justify-content: center;
 }
+
+@media only screen and (max-width: 768px) {
+    .carousel  h3 {
+        margin: auto;
+        width: 90%;
+    }
+    
+    .carousel  p {
+        margin-bottom: 5px;
+        width: 90%;
+    }
+}
