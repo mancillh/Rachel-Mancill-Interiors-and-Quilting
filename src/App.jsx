@@ -1,7 +1,7 @@
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import CoverImage from "./components/CoverImage";
 import Section from "./components/Section";
-import Footer from "./components/Footer";
+import Footer from "./components/Footer.jsx";
 import Contact from "./components/Contact";
 import Card from "./components/Card";
 import Top from "./components/Top";
