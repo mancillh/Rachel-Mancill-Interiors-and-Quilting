@@ -27,3 +27,21 @@ hr {
     margin:0;
     padding: 0px 10px;
 }
+
+.mom {
+    display: flex;
+    margin: 20px;
+}
+
+.dad {
+    display: flex;
+    margin: 20px;
+}
+
+.images-about {
+    display: flex;
+    height: 300px;
+    padding: 20px;
+    justify-content: center;
+    background-color: black;
+}

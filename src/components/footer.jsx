@@ -1,6 +1,6 @@
 import '../styles/Footer.css';
 
-function FooterSection() {
+function Footer() {
     return (
         <footer>
             <h6>&copy; 2024 Hannah Mancill</h6>
@@ -8,4 +8,4 @@ function FooterSection() {
     );
 }
 
-export default FooterSection;
+export default Footer;

@@ -1,10 +1,10 @@
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 import CoverImage from "./components/CoverImage";
 import Section from "./components/Section";
-import FooterSection from "./components/Footer";
+import Footer from "./components/Footer";
 import Contact from "./components/Contact";
 import Card from "./components/Card";
-import NavbarSection from "./components/Navbar";
+import Top from "./components/Top";
 import Carousel from 'react-bootstrap/Carousel';
 import './styles/Container.css'
 import './styles/Carousel.css'
@@ -14,14 +14,21 @@ function App() {
 
   return (
     <>
-      <NavbarSection />
+      <Top />
       <CoverImage />
       <div id='About'>
         <Section
-          sectionTitle="About Our Company"
-          sectionContent="Rachel has been quilting in the Houston area for decades. 
-          She and her husband, Mike Mancill, often work together. She pieces and he works the long-arm machine. We offer quilting services. Contact me with the form below for more information"
+          sectionTitle="About Our Studio"
+          sectionContent="Rachel has been quilting for decades. She particularly enjoys using vintage linens and wild and vibrant colors in her work.
+          Rachel is the designer and piecer of quilt tops. Mike is the long-armer and specializes in custom designs. 
+          The Mancill's offer bespoke quilting services of various kinds.  
+          Contact them with the form below for more information. Quotes are free."
         />
+        <div className='images-about'>
+          <img className='mom' src='mom at longarm.jpg' alt='Rachel at long arm'></img>
+          <img className='dad' src='dad long arm wedding ring.jpg' alt='Mike at long arm'></img>
+        </div>      
+        <hr></hr>
       </div>
       <div id='Portfolio'>
         <Section
@@ -264,7 +271,7 @@ function App() {
       <div id='ContactMe'>
         <Contact />
       </div>
-      <FooterSection />
+      <Footer />
     </>
   )
 }

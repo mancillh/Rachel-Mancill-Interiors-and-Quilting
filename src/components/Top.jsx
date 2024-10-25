@@ -1,8 +1,8 @@
 import { Container, Navbar } from 'react-bootstrap';
 import Dropdown from 'react-bootstrap/Dropdown';
-import '../styles/Navbar.css';
+import '../styles/Top.css';
 
-function NavbarSection() {
+function Top() {
   return (
     <Navbar expand="lg" className="nav">
       <Container>
@@ -23,4 +23,4 @@ function NavbarSection() {
   );
 }
 
-export default NavbarSection;
+export default Top;
