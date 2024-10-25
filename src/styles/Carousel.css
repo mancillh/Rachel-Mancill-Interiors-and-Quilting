@@ -1,4 +1,22 @@
 .carousel {
     background-color: aquamarine;
-  
+}
+
+.carousel  h3 {
+    background-color: black;
+    color: whitesmoke;
+    margin: auto;
+    width: 40%;
+}
+
+.carousel  p {
+    background-color: black;
+    color: whitesmoke;
+    margin: auto;
+    margin-bottom: 20px;
+    width: 40%;
+}
+
+.carousel .slide{
+    justify-content: center;
 }

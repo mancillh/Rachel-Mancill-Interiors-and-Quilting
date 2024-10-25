@@ -4,7 +4,7 @@ import '../styles/Navbar.css';
 
 function NavbarSection() {
   return (
-    <Navbar expand="lg" className="nav fixed-top">
+    <Navbar expand="lg" className="nav">
       <Container>
         <Navbar className="company-name">Rachel Mancill Interiors and Quilting</Navbar>
         <Dropdown>
