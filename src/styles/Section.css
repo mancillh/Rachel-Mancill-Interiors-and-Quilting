@@ -55,9 +55,11 @@ hr {
 @media only screen and (max-width: 768px) {
     .mom {
         height: 60%;
+        margin: 5px;
     }
 
     .dad {
         height: 60%;
+        margin: 5px;
     }
 }
