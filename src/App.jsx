@@ -1,10 +1,10 @@
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
-import NavbarSection from "./components/Navbar";
 import CoverImage from "./components/CoverImage";
 import Section from "./components/Section";
 import FooterSection from "./components/Footer";
 import Contact from "./components/Contact";
 import Card from "./components/Card";
+import NavbarSection from "./components/Navbar";
 import Carousel from 'react-bootstrap/Carousel';
 import './styles/Container.css'
 import './styles/Carousel.css'
@@ -19,7 +19,8 @@ function App() {
       <div id='About'>
         <Section
           sectionTitle="About Our Company"
-          sectionContent="Rachel is..."
+          sectionContent="Rachel has been quilting in the Houston area for decades. 
+          She and her husband, Mike Mancill, often work together. She pieces and he works the long-arm machine. We offer quilting services. Contact me with the form below for more information"
         />
       </div>
       <div id='Portfolio'>
