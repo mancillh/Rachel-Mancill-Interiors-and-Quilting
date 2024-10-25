@@ -29,7 +29,7 @@ hr {
 }
 
 .mom {
-    display: inline;
+    display: block;
     margin: 20px;
     max-width: 50%;
     border-radius: 10px;
@@ -52,3 +52,8 @@ hr {
     background-color: black;
 }
 
+@media only screen and (max-width: 768px) {
+    .mom {
+        height: 70%;
+    }
+}
