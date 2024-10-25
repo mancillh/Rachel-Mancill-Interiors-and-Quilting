@@ -43,9 +43,8 @@ function App() {
             alt='wedding ring quilt full front'
           />
           <Carousel.Caption>
-            <h3><q>Diamonds and Pearls</q></h3>
-            <p>Full Front</p>
-          </Carousel.Caption>
+            <h3>Diamonds and Pearls</h3>
+                      </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -53,9 +52,8 @@ function App() {
             alt='wedding ring quilt detail'
           />
           <Carousel.Caption>
-            <h3><q>Diamonds and Pearls</q></h3>
-            <p>Detail</p>
-          </Carousel.Caption>
+            <h3>Diamonds and Pearls</h3>
+                      </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -63,8 +61,8 @@ function App() {
             alt='grateful'
           />
           <Carousel.Caption>
-            <h3><q>Grateful</q></h3>
-            <p>Full Front</p>
+            <h3>Grateful</h3>
+            
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
@@ -73,8 +71,8 @@ function App() {
             alt='halloween ful front'
           />
           <Carousel.Caption>
-            <h3><q>Witch's Night Out</q></h3>
-            <p>Full Front</p>
+            <h3>Witch's Night Out</h3>
+           
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
@@ -83,9 +81,8 @@ function App() {
             alt='halloween quilt pumpkin detail'
           />
           <Carousel.Caption>
-            <h3><q>Witch's Night Out</q></h3>
-            <p>Detail</p>
-          </Carousel.Caption>
+            <h3>Witch's Night Out</h3>
+                   </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -93,9 +90,8 @@ function App() {
             alt='halloween quilt cat detail'
           />
           <Carousel.Caption>
-            <h3><q>Witch's Night Out</q></h3>
-            <p>Detail</p>
-          </Carousel.Caption>
+            <h3>Witch's Night Out</h3>
+                      </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -103,8 +99,8 @@ function App() {
             alt='long time gone full'
           />
           <Carousel.Caption>
-            <h3><q>Long Time Gone</q></h3>
-            <p>Full Front</p>
+            <h3>Long Time Gone</h3>
+           
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
@@ -113,9 +109,8 @@ function App() {
             alt='long time gone detail'
           />
           <Carousel.Caption>
-            <h3><q>Long Time Gone</q></h3>
-            <p>Detail</p>
-          </Carousel.Caption>
+            <h3>Long Time Gone</h3>
+                    </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -123,9 +118,8 @@ function App() {
             alt='long time gone detail'
           />
           <Carousel.Caption>
-            <h3><q>Long Time Gone</q></h3>
-            <p>Detail</p>
-          </Carousel.Caption>
+            <h3>Long Time Gone</h3>
+                  </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -133,8 +127,8 @@ function App() {
             alt='mama bears garden full front'
           />
           <Carousel.Caption>
-            <h3><q>Mama Bear's Garden</q></h3>
-            <p>Full Front</p>
+            <h3>Mama Bear's Garden</h3>
+           
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
@@ -143,9 +137,8 @@ function App() {
             alt='mama bears garden full front'
           />
           <Carousel.Caption>
-            <h3><q>Mama Bear's Garden</q></h3>
-            <p>Detail</p>
-          </Carousel.Caption>
+            <h3>Mama Bear's Garden</h3>
+                   </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -153,9 +146,8 @@ function App() {
             alt='mmonster quilt full front'
           />
           <Carousel.Caption>
-            <h3><q>Ellis' Monster Quilt</q></h3>
-            <p>Full Front</p>
-          </Carousel.Caption>
+            <h3>Ellis' Monster Quilt</h3>
+                    </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -163,9 +155,8 @@ function App() {
             alt='mmonster quilt full back'
           />
           <Carousel.Caption>
-            <h3><q>Ellis' Monster Quilt</q></h3>
-            <p>Full Back</p>
-          </Carousel.Caption>
+            <h3>Ellis' Monster Quilt</h3>
+                  </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -173,9 +164,8 @@ function App() {
             alt='mmonster quilt detail'
           />
           <Carousel.Caption>
-            <h3><q>Ellis' Monster Quilt</q></h3>
-            <p>Matching Pillow Case</p>
-          </Carousel.Caption>
+            <h3>Ellis' Monster Quilt Matching Pillow Case</h3>
+                     </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -183,9 +173,8 @@ function App() {
             alt='pencil quilt full'
           />
           <Carousel.Caption>
-            <h3><q>Pencil Quilt</q></h3>
-            <p>Full Front</p>
-          </Carousel.Caption>
+            <h3>Pencil Quilt</h3>
+                     </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -194,8 +183,7 @@ function App() {
           />
           <Carousel.Caption>
             <h3>Table Runner</h3>
-            <p>Full Front</p>
-          </Carousel.Caption>
+                    </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -203,7 +191,7 @@ function App() {
             alt='stuffed puppy dolls'
           />
           <Carousel.Caption>
-            <h3><q>Clark's Puppy Dolls</q></h3>
+            <h3>Clark's Puppy Dolls</h3>
           </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
@@ -212,9 +200,8 @@ function App() {
             alt='ship'
           />
           <Carousel.Caption>
-            <h3><q>Unspoiled</q></h3>
-            <p>Full Front</p>
-          </Carousel.Caption>
+            <h3>Unspoiled</h3>
+                 </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -222,9 +209,8 @@ function App() {
             alt='ship'
           />
           <Carousel.Caption>
-            <h3><q>Unspoiled</q></h3>
-            <p>Full Front</p>
-          </Carousel.Caption>
+            <h3>Unspoiled</h3>
+                      </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -232,9 +218,8 @@ function App() {
             alt='victory garden full'
           />
           <Carousel.Caption>
-            <h3><q>Victory Garden</q></h3>
-            <p>Full Back</p>
-          </Carousel.Caption>
+            <h3>Victory Garden</h3>
+                      </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -242,9 +227,8 @@ function App() {
             alt='victory garden full back'
           />
           <Carousel.Caption>
-            <h3><q>Victory Garden</q></h3>
-            <p>Full Back</p>
-          </Carousel.Caption>
+            <h3>Victory Garden</h3>
+                    </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -252,9 +236,8 @@ function App() {
             alt='victory garden detail'
           />
           <Carousel.Caption>
-            <h3><q>Victory Garden</q></h3>
-            <p>Detail</p>
-          </Carousel.Caption>
+            <h3>Victory Garden</h3>
+                    </Carousel.Caption>
         </Carousel.Item>
         <Carousel.Item interval={2000}>
           <Card
@@ -262,9 +245,8 @@ function App() {
             alt='victory garden detail'
           />
           <Carousel.Caption>
-            <h3><q>Victory Garden</q></h3>
-            <p>Detail</p>
-          </Carousel.Caption>
+            <h3>Victory Garden</h3>
+                 </Carousel.Caption>
         </Carousel.Item>
       </Carousel>
 
