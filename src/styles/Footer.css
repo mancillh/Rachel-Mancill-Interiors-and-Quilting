@@ -1,3 +1,5 @@
+/* Styling for Facebook icon is in PageStyling.css */
+
 /* Styling for Footer */
 h6 {
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -9,29 +11,5 @@ h6 {
   justify-content: center;
   align-items: center;
   background-color: black;
-  padding-top: 20px;
-}
-
-div img {
-  height: 45px;
-  margin: 10px;
-  background-color: black;
-} 
-
-.follow {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding-top: 30px;
-  font-size: 20px;
-}
-/* Facebook Link */
-
-.footer-links {
-  display: flex;
-  flex-direction: row;
-  position: relative;
-  justify-content: center;
-  align-items: center;
-  background-color: black;
+  padding-top: 40px;
 }

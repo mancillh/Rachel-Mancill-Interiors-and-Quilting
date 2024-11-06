@@ -25,7 +25,7 @@ h2 {
 /* About Page  */
 .aboutPhotoMom {
     width: 50%;
-    height: 50vh;  
+    height: 50vh;
     object-fit: cover;
     margin-top: auto;
     justify-content: center;
@@ -37,7 +37,7 @@ h2 {
 
 .aboutPhotoDad {
     width: 50%;
-    height: 50vh;  
+    height: 50vh;
     object-fit: cover;
     margin-top: auto;
     justify-content: center;
@@ -50,4 +50,46 @@ h2 {
 .aboutPhotoContainer {
     width: 100%;
     margin: auto;
+}
+
+.facebook-link img {
+    height: 45px;
+    margin: 10px;
+    background-color: black;
+}
+
+.follow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    font-size: 20px;
+}
+
+/* Facebook Link */
+.facebook-link {
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
+
+@media only screen and (max-width: 1100px) {
+    .aboutPhotoMom {
+        width: 100%;
+        float: none;
+        margin-bottom: 20px;
+        object-fit:contain;
+    }
+    .aboutPhotoDad {
+        width: 100%;
+        float: none;
+        margin: auto;
+        object-fit:contain;
+    }
+    .follow{
+        font-size: 15px;
+    }
 }
