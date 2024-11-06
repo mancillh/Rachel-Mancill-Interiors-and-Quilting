@@ -29,6 +29,7 @@ export default function AboutPage() {
                         <img className="aboutPhotoDad img-fluid" src="/images/dad long arm wedding ring.jpg" alt="picture of Mike Mancill"></img>
                     </Col>
                 </Row>
+                <Row className='follow'>Follow Rachel Mancill Interiors & Quilting</Row>
             </Container>
         </>
     )

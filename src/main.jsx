@@ -8,7 +8,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import ErrorPage from './pages/ErrorPage';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
-import QuiltPortfolio from './pages/QuiltPortfolio.jsx';
+import QuiltPortfolio from './pages/QuiltPortfolio';
 
 // Defines the accessible routes and which components respond to which URL
 const router = createBrowserRouter([
