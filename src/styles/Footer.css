@@ -12,18 +12,19 @@ h6 {
   background-color: black;
 }
 
-/* footer img {
+footer img {
   height: 25px;
   margin: 10px;
   background-color: black;
-} */
+} 
 
 /* Facebook Link */
-/* .footer-links {
+
+.footer-links {
   display: flex;
   flex-direction: row;
   position: relative;
   justify-content: center;
   align-items: center;
   background-color: black;
-} */
+}
