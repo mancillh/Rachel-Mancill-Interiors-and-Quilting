@@ -1,0 +1,53 @@
+/* This section is styling for most pages. Styling for About Me image is lower on this file. */
+p {
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(194, 192, 192);
+    margin: 20px;
+    font-size: 1.3rem;
+    text-wrap: wrap;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(194, 192, 192);
+    font-size: xx-large;
+    margin: 20px;
+    margin-bottom: 0px;
+}
+
+.Container {
+    background-color: black;
+}
+
+/* Specific Page Styling */
+
+/* About Page  */
+.aboutPhotoMom {
+    width: 50%;
+    height: 50vh;  
+    object-fit: cover;
+    margin-top: auto;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    float: right;
+    margin-right: 30px;
+}
+
+.aboutPhotoDad {
+    width: 50%;
+    height: 50vh;  
+    object-fit: cover;
+    margin-top: auto;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    float: left;
+    margin-left: 30px;
+}
+
+.aboutPhotoContainer {
+    width: 100%;
+    margin: auto;
+}

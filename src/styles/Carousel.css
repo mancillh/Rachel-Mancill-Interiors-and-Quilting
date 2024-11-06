@@ -1,12 +1,12 @@
 .carousel {
-    background-color: #ccebe2;
+    background-color: black;
 }
 
 .carousel  h3 {
     background-color: black;
     color: whitesmoke;
     margin: auto;
-    width: 40%;
+    width: 30%;
 }
 
 .carousel  p {
@@ -19,6 +19,10 @@
 
 .carousel .slide{
     justify-content: center;
+}
+
+.slide .carousel-indicators {
+    margin-bottom: -2rem;
 }
 
 @media only screen and (max-width: 768px) {

@@ -1,0 +1,17 @@
+/* Generic reset styling for whole site */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: black;
+    color: hsl(0, 0%, 80%);
+    min-height: 80vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    position: relative;
+  }
+  

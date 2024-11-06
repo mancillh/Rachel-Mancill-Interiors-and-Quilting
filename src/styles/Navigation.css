@@ -1,0 +1,26 @@
+.company-name {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #46cfcd; 
+    /* #ffd804 yellow, #f6bad1 pink, #cc087f magenta  */
+    font-weight: 900;
+    font-size: 3vw;
+    border-bottom: none;
+    background-color: black;
+  }
+  
+  .nav {
+    
+    background-color: black;
+  }
+
+  .dropdownButton {
+    background-color: #46cfcd;
+    color: black;
+    font-size: x-large;
+    border: 1px solid black;
+  }
+
+  .dropdownButton:hover {
+    background-color: #cc087f;
+    border: 1px solid black;
+  }
